@@ -15,4 +15,4 @@ I design and build backend systems for last-mile delivery and e-commerce fulfill
 
 #### Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hseinmoussa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussein-hassan-moussa)
